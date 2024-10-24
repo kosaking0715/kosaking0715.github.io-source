@@ -1,0 +1,60 @@
+# Keep front-end languages
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.scss linguist-language=SCSS
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+*.mjs linguist-language=JavaScript
+*.mts linguist-language=TypeScript
+
+# Exclude image files
+*.jpg linguist-vendored
+*.png linguist-vendored
+*.svg linguist-vendored
+*.eot linguist-vendored
+*.otf linguist-vendored
+*.ttf linguist-vendored
+
+# Exclude documentation files
+*.md linguist-documentation
+*.markdown linguist-documentation
+*.mdown linguist-documentation
+*.pdf linguist-documentation
+*.txt linguist-documentation
+*.DOCS linguist-documentation
+
+# Exclude configuration files
+*.json linguist-vendored
+*.lock linguist-vendored
+*.yml linguist-vendored
+*.env linguist-vendored
+*.babelrc linguist-vendored
+*.editorconfig linguist-vendored
+*.eslintcache linguist-vendored
+*.eslintrc linguist-vendored
+*.gitignore linguist-vendored
+*.gitattributes linguist-vendored
+*.gitmodules linguist-vendored
+*.npmignore linguist-vendored
+*.nycrc linguist-vendored
+*.opts linguist-vendored
+*.jscsrc linguist-vendored
+*.jshintignore linguist-vendored
+*.jshintrc linguist-vendored
+
+# Exclude font files
+*.eot linguist-vendored
+*.ttf linguist-vendored
+*.otf linguist-vendored
+
+# Exclude other unnecessary files
+*.log linguist-vendored
+*.map linguist-vendored
+*.out linguist-vendored
+*.bak linguist-vendored
+*.old linguist-vendored
+*.patch linguist-vendored
+*.sample linguist-vendored
+
