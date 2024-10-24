@@ -7,7 +7,7 @@ This repository is licensed under the GNU Affero General Public License Version 
 
 - The code in this repository is prohibited from being used for commercial purposes.
 
-- Everyone is allowed to view, download, and share the code, but **reposting any written content (articles) without the author’s permission is strictly forbidden**.
+- Everyone is allowed to view, download, and share the code, but **republishing any articles without the author’s permission is strictly forbidden**.
 
 ## Steps to Deploy the Local Blog Project
 
