@@ -1,8 +1,0 @@
-# Ignore everything by default
-* linguist-vendored
-
-# Include only the files in node_modules/hexo-theme-icarus (except source subfolder)
-node_modules/hexo-theme-icarus/** linguist-vendored=false
-
-# Exclude files in node_modules/hexo-theme-icarus/source
-node_modules/hexo-theme-icarus/source/** linguist-vendored
