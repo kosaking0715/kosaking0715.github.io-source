@@ -2,6 +2,13 @@
 
 This repository contains the core configuration backup of Clay-KoSaking's Hexo blog with the Icarus theme.
 
+## Acknowledgements
+This blog's development was greatly inspired by the works and resources provided by the following authors:
+
+- [Xinyu Liu](https://www.alphalxy.com/): [Icarus 主题自定义](https://www.alphalxy.com/2019/03/customize-icarus/)
+
+- [戴闻濠](https://scutlmg.github.io/): [Hexo-icarus主题黑夜模式以及背景](https://scutlmg.github.io/2021/09/14/Hexo-icarus%E4%B8%BB%E9%A2%98%E9%BB%91%E5%A4%9C%E6%A8%A1%E5%BC%8F%E4%BB%A5%E5%8F%8A%E8%83%8C%E6%99%AF/)
+
 ## :warning: License 
 This repository is licensed under the GNU Affero General Public License Version 3 (AGPL-3.0).
 
