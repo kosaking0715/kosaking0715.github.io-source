@@ -1,6 +1,6 @@
 # Hexo Blog Backup (Icarus Theme)
 
-This repository contains the core configuration backup of LeyaLmg's Hexo blog with the Icarus theme.
+This repository contains the core configuration backup of KoSaking's Hexo blog with the Icarus theme.
 
 ## Acknowledgements
 This blog's development was greatly inspired by the works and resources provided by the following authors:
@@ -21,12 +21,12 @@ This repository is licensed under the GNU Affero General Public License Version 
 1. Clone the repository to your local machine:
 
    ```bash
-   $ git clone git@github.com:LeyaLmg/LeyaLmg.github.io-source.git
+   $ git clone git@github.com:kosaking0715/kosaking0715.github.io-source.git
 
 2. Navigate to the project directory:
 
    ```bash
-   $ cd LeyaLmg.github.io-source
+   $ cd kosaking0715.github.io-source
 
 3. Temporarily move the Icarus theme out of `node_modules`:
 
