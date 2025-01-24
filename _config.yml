@@ -116,5 +116,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Clay-KoSaking/Clay-KoSaking.github.io.git
+  repo: git@github.com:kosaking0715/kosaking0715.github.io.git
   branch: master

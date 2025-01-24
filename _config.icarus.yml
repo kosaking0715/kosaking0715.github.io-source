@@ -245,12 +245,12 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/Clay-KoSaking
+        follow_link: https://github.com/kosaking0715
         # Links to be shown on the bottom of the profile widget
         # social_links:
         #     Github:
         #         icon: fab fa-github
-        #         url: https://github.com/Clay-KoSaking
+        #         url: https://github.com/kosaking0715
         #     Facebook:
         #         icon: fab fa-facebook
         #         url: https://facebook.com
